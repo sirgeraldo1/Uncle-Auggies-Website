@@ -1,0 +1,202 @@
+.version.index /* version checker */
+{
+	color: #0000E6;
+	background-color: #6B8F17;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 500px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	width: 100%;
+	max-width: 904px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -5px;
+	padding-bottom: 109px;
+	width: 100%;
+}
+
+#u138
+{
+	z-index: 2;
+	background-color: #FEEAA8;
+	padding-bottom: 4px;
+	position: relative;
+	width: 99.89%;
+}
+
+#u141
+{
+	z-index: 3;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #3665B0;
+	background-color: transparent;
+	padding-bottom: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	width: 99.01%;
+	left: 0.12%;
+}
+
+#u120
+{
+	z-index: 7;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	width: 15.66%;
+	left: 2.13%;
+}
+
+#u116
+{
+	z-index: 8;
+	display: block;
+	width: 100%;
+}
+
+#u192
+{
+	z-index: 13;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	width: 10.97%;
+	left: 62.31%;
+}
+
+#u186-4
+{
+	z-index: 14;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	width: 97.96%;
+	left: 1.03%;
+}
+
+#u152-4
+{
+	z-index: 18;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	width: 97.96%;
+}
+
+#u169
+{
+	z-index: 11;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	width: 4.59%;
+	left: 77.41%;
+}
+
+#u167
+{
+	z-index: 12;
+	display: block;
+	width: 100%;
+}
+
+#u189
+{
+	z-index: 22;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	width: 10.97%;
+	left: 86.25%;
+}
+
+#u158-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	width: 97.96%;
+	left: 2.05%;
+}
+
+#u164-4
+{
+	z-index: 27;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	width: 97.96%;
+}
+
+#pu131
+{
+	margin-top: 73px;
+	width: 42.15%;
+	margin-left: 35.29%;
+}
+
+#u131
+{
+	z-index: 9;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	width: 66.93%;
+}
+
+#u127
+{
+	z-index: 10;
+	display: block;
+	width: 100%;
+}
+
+#u108-3
+{
+	z-index: 4;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 101px;
+	width: 2.1%;
+	left: 97.91%;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+

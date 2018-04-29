@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="uncleauggies.website" resolutions="1x" timestamp="1525021619580">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="untitled-2.css" crc="3840843285" ref="untitled-2"/>
+    <file name="index.css" crc="3865808663" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="3790713428" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="84559013" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="full-logo.svg" crc="3820853603" ref="index:untitled-2"/>
+    <file name="full logo_poster_.png" crc="4141440766" ref="index"/>
+    <file name="u186-4.png" crc="291119558" ref="index"/>
+    <file name="u152-4.png" crc="82859279" ref="index"/>
+    <file name="pasted-svg-13432x13.svg" crc="494349886" ref="index"/>
+    <file name="pasted svg 13432x13_poster_.png" crc="243837492" ref="index"/>
+    <file name="u158-4.png" crc="243299101" ref="index"/>
+    <file name="u164-4.png" crc="84904102" ref="index"/>
+    <file name="small-logo.svg" crc="426676178" ref="index:untitled-2"/>
+    <file name="small logo_poster_.png" crc="91382825" ref="index"/>
+    <file name="u232-4.png" crc="271227276" ref="untitled-2"/>
+  </folder>
+  <file name="index.html" crc="3815497608" seo="true" mt="1525021028579" redirect="true"/>
+  <file name="untitled-2.html" crc="3763418971" seo="true" mt="1525021513993" redirect="true"/>
+</manifest>
